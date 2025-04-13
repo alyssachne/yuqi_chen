@@ -1,11 +1,3 @@
-# Resume template
-
-*A simple Jekyll + GitHub Pages powered resume template.*
-
-![img](images/screenshot.png)
-
-## Docs
-
 ### Running locally
 
 To test locally, run the following in your terminal:
