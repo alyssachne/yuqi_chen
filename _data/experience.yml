@@ -3,12 +3,16 @@
   position: Machine Learning Engineer
   duration: Nov, 2024 &mdash; Present
   points:
-    - point: Collaborated with data scientists and software engineers to design and implement machine learning algorithms for large-scale data analysis.
+    - point: Designed and implemented an engineering framework to integrate complex model requirements from scientists into existing systems
+    - point: Collaborated closely with scientists, providing hands-on technical support to streamline model implementation processes
+    - point: Explored cutting-edge techniques in agentic systems and large language models (LLMs)
+    - point: Managed end-to-end package release workflows, including version control, deployment, security validation, and communication
   
 - company: Huawei Technologies Canada
   position: Machine Learning Engineer & Research Assistant
   duration:   May, 2022  &mdash; June, 2023
-  summary: Led communication efforts across digital and traditional media channels 
+  # summary: At the CV team at Noah's Ark, I bridged the gap between theoretical ML research and practical implementation. I supported computer vision model architecture development and experimental validation, while also creating interactive 3D visualization tools. This experience developed my end-to-end ML engineering skills spanning data preparation, model training, and full-stack application development.
   points:
-    - point: Collaborated with data scientists and software engineers to design and implement machine learning algorithms for large-scale data analysis.
-  
+    - point: Collaborated with research scientists to adapt and optimize computer vision models for diverse input/output requirements
+    - point: Executed comprehensive experiment cycles including baseline development, data collection, preprocessing, and cloud-based model training
+    - point: Engineered a full-stack web application enabling interactive 3D mesh manipulation and synthetic media generation

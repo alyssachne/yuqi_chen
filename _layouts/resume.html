@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar1.jpeg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/avatar2.jpeg" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -200,6 +200,18 @@
             <li>{{ interest.description }}</li>
             {% endfor %}
           </ul>
+        </div>
+
+        <!-- Video Embed -->
+        <div class="video-container">
+          <video id="projectVideo" width="100%" controls>
+            <source src="images/2017-1.mp4" type="video/mp4">
+
+          </video>
+          <video id="projectVideo" width="100%" controls>
+            <source src="images/2018.mp4" type="video/mp4">
+
+          </video>
         </div>
 
       </section>

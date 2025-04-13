@@ -3,13 +3,13 @@
   description: Python, Java, SQL, JavaScript/TypeScript, HTML/CSS, C/C++, Bash, R
   
 - skill: Frameworks
-  description: LangChain, Spring, React, Flask, React Native, NodeJS
+  description: LangChain, FastAPI, Spring, React, Flask, React Native, NodeJS
 
 - skill: Libraries
   description: PyTorch, TensorFlow, Pandas, Gurobi, scikit-learn, OpenCV
 
 - skill: Other Tools
-  description: Git, Docker, Postman, Swagger, OpenAPI, pgAdmin, SSH, Jira, Linux, Hugging Face, Heroku
+  description: Git, Docker, Postman, pgAdmin, SSH, Jira, Linux, Hugging Face, Heroku
 
 - skill: Languages
   description: English (Fluent), Mandarin (Native)
